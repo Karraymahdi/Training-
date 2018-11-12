@@ -1,15 +1,15 @@
 [submodule "Game-Engine"]
 	path = Game-Engine
-	url = https://github.com/youngTickles/Game-Engine
+ url = https://github.com/youngTickles/Game-Engine
 [submodule "Api-Gateway"]
 	path = Api-Gateway
-	url = https://github.com/youngTickles/Api-Gateway
+ url = https://github.com/youngTickles/Api-Gateway
 [submodule "Client"]
 	path = Client
-	url = https://github.com/youngTickles/Client
+ url = https://github.com/youngTickles/Client
 [submodule "Lobby"]
 	path = Lobby
-	url = https://github.com/youngTickles/Lobby
+ url = https://github.com/youngTickles/Lobby
 [submodule "Security"]
 	path = Security
 	url = https://github.com/youngTickles/Security
