@@ -13,3 +13,6 @@
 [submodule "Security"]
 	path = Security
 	url = https://github.com/youngTickles/Security
+[submodule "Testing"]
+	path = Testing
+	url = https://github.com/youngTickles/Testing
